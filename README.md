@@ -4,9 +4,9 @@ The Crash is a story telling, psychological mystery and crime game created in Sc
 # Sypnosis
 The plane was hijacked and forced to crash. Many passengers survived the crash, however, after the first night of being stranded, a dead body was found. You are a detective and you have isolated 6 possible suspects that were last seen with the person
 
-# Demo and Devpost
-https://www.youtube.com/watch?v=HkGxvWYhFXw&feature=emb_title  
-https://devpost.com/software/the-crash
+# Links
+Demo: https://www.youtube.com/watch?v=HkGxvWYhFXw&feature=emb_title  
+More on our project: https://devpost.com/software/the-crash
 
 # Contributions
 @jackievoh  
